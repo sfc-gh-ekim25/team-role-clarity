@@ -80,16 +80,16 @@ Once Cortex starts, type `/role-clarity` followed by your question:
 
 ---
 
-## Example Questions for Designers
+## Example Questions for Product Managers, Designers, or Engineers
 
 | Question | What you'll learn |
 |----------|-------------------|
-| `/role-clarity what does design own now?` | Design's new ownership areas |
+| `/role-clarity what does PM own now?` | PM's new ownership areas |
 | `/role-clarity when is UI appropriate vs AI?` | AI vs UI decision framework |
 | `/role-clarity what are guardrails designers should create?` | Trust & safety design work |
 | `/role-clarity what is the hybrid principle?` | CLI ↔ UI handoff design |
 | `/role-clarity what is platform clarity?` | Why most slowdowns aren't role issues |
-| `/role-clarity what new design roles will exist?` | Agent Experience Designer, etc. |
+| `/role-clarity what new eng roles will exist?` | Eval Engineer, etc. |
 
 ---
 
