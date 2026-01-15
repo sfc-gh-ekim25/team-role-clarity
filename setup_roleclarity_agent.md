@@ -1,4 +1,4 @@
-# Role Clarity Agent - Setup Guide for Designers
+# Role Clarity Agent - Easy Setup Guide in Coco CLI
 
 ## What is this?
 
